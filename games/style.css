@@ -1,0 +1,24 @@
+body {
+    max-width:400px;
+    margin-left:auto;
+    margin-right:auto;
+    color:white;
+    background: #8181ab;
+}
+
+ul{
+    display: table;
+    margin: 0 auto;
+    color:blanchedalmond;
+}
+
+h1,h2{
+    color:#00531b;
+}
+h2{
+    text-align: center;
+}
+
+a{
+    color:#00b93d;
+}
